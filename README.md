@@ -1,7 +1,7 @@
 
 # Proyecto Individual 1- Data 04- Soy Henry 
 
-![DISNEY](https://prod-static.disney-plus.net/assets/product/disneyplus/images/share-default.14fadd993578b9916f855cebafb71e62.png)
+
 
 
 # Resumen
