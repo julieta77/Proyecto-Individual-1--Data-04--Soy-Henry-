@@ -24,5 +24,5 @@ Mi objetivo a seguir es limpiar los datos para que mi cliente pueda analizar los
 
 ## Link
 
-- [VideoExplicativo](https://www.youtube.com/watch?v=tKIsqVJ5ML0)
+- [VideoExplicativo](https://youtu.be/lRaHG27Se9M)
 
